@@ -19,6 +19,7 @@ step3:
  
 
 ##running result
-![](https://github.com/defchain/DEFWallet-for-iOS/blob/master/raw/screenshot/def_wallet_1.png)
-![](https://github.com/defchain/DEFWallet-for-iOS/blob/master/raw/screenshot/def_wallet_2.png)
-![](https://github.com/defchain/DEFWallet-for-iOS/blob/master/raw/screenshot/def_wallet_3.png)
+
+<img src="https://github.com/defchain/DEFWallet-for-iOS/blob/master/raw/screenshot/def_wallet_1.png" width=319 height=568 /><br />
+<img src="https://github.com/defchain/DEFWallet-for-iOS/blob/master/raw/screenshot/def_wallet_2.png" width=319 height=568 /><br />
+<img src="https://github.com/defchain/DEFWallet-for-iOS/blob/master/raw/screenshot/def_wallet_3.png" width=319 height=568 /><br />
