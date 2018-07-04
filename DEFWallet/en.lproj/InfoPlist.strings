@@ -1,0 +1,4 @@
+
+UILaunchStoryboardName = "LaunchScreen";
+
+NSCameraUsageDescription = "Need to use your camera permissions,is it allowed?";

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="14113" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="BPA-ft-hG4">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14088"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="6pP-fE-XKB">
+            <objects>
+                <viewController id="BPA-ft-hG4" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="aQO-VU-Z2g">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="e0O-gY-kWE">
+                                <rect key="frame" x="37.5" y="269.5" width="300" height="128"/>
+                                <subviews>
+                                    <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="icon_logo" translatesAutoresizingMaskIntoConstraints="NO" id="e32-fx-lhJ">
+                                        <rect key="frame" x="30" y="28.5" width="69.5" height="69.5"/>
+                                        <constraints>
+                                            <constraint firstAttribute="width" constant="69.5" id="aus-De-f6X"/>
+                                            <constraint firstAttribute="height" constant="69.5" id="nI2-2g-wkX"/>
+                                        </constraints>
+                                    </imageView>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="最安全的数字货币钱包" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="iGm-4Z-Z6Y">
+                                        <rect key="frame" x="118" y="68" width="123" height="15"/>
+                                        <constraints>
+                                            <constraint firstAttribute="height" constant="15" id="72b-VC-tI9"/>
+                                            <constraint firstAttribute="width" constant="123" id="q3b-gX-kAb"/>
+                                        </constraints>
+                                        <fontDescription key="fontDescription" type="system" pointSize="12"/>
+                                        <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="DEF Wallet" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Zy4-7p-Xev">
+                                        <rect key="frame" x="118" y="39" width="87.5" height="21"/>
+                                        <constraints>
+                                            <constraint firstAttribute="height" constant="21" id="2FL-ZC-yZs"/>
+                                            <constraint firstAttribute="width" constant="87.5" id="ydd-QN-nCW"/>
+                                        </constraints>
+                                        <fontDescription key="fontDescription" type="boldSystem" pointSize="17"/>
+                                        <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                </subviews>
+                                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <constraints>
+                                    <constraint firstItem="Zy4-7p-Xev" firstAttribute="top" secondItem="e0O-gY-kWE" secondAttribute="top" constant="39" id="5R4-NP-Aqs"/>
+                                    <constraint firstItem="iGm-4Z-Z6Y" firstAttribute="top" secondItem="Zy4-7p-Xev" secondAttribute="bottom" constant="8" id="Iny-2e-eUp"/>
+                                    <constraint firstItem="e32-fx-lhJ" firstAttribute="leading" secondItem="e0O-gY-kWE" secondAttribute="leading" constant="30" id="KBN-cg-VkO"/>
+                                    <constraint firstItem="e32-fx-lhJ" firstAttribute="top" secondItem="e0O-gY-kWE" secondAttribute="top" constant="28.5" id="OFl-Ge-qP6"/>
+                                    <constraint firstAttribute="width" constant="300" id="RxK-aL-Q8n"/>
+                                    <constraint firstItem="iGm-4Z-Z6Y" firstAttribute="leading" secondItem="e32-fx-lhJ" secondAttribute="trailing" constant="18.5" id="V6p-zS-GlH"/>
+                                    <constraint firstItem="Zy4-7p-Xev" firstAttribute="leading" secondItem="e32-fx-lhJ" secondAttribute="trailing" constant="18.5" id="geD-7n-UxI"/>
+                                    <constraint firstAttribute="height" constant="128" id="iJl-qE-9b1"/>
+                                </constraints>
+                            </view>
+                        </subviews>
+                        <color key="backgroundColor" red="0.14901960780000001" green="0.23921568630000001" blue="0.33333333329999998" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstItem="e0O-gY-kWE" firstAttribute="centerY" secondItem="aQO-VU-Z2g" secondAttribute="centerY" id="IV1-5p-6Ft"/>
+                            <constraint firstItem="e0O-gY-kWE" firstAttribute="centerX" secondItem="aQO-VU-Z2g" secondAttribute="centerX" id="l50-gk-KyK"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="FHl-1h-JNk"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="FPi-EU-BB6" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-175" y="-402"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="icon_logo" width="69" height="69"/>
+    </resources>
+</document>

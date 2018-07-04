@@ -1,0 +1,4 @@
+
+UILaunchStoryboardName = "LaunchScreen_zhCN";
+
+NSCameraUsageDescription = "需要用到您的相机权限,是否允许？";

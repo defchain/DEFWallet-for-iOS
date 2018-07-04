@@ -1,0 +1,337 @@
+
+/* Class = "UILabel"; text = "0.000000eth"; ObjectID = "0nf-An-9DA"; */
+"0nf-An-9DA.text" = "0.000000eth";
+
+/* Class = "UILabel"; text = "Confirm your mnemonic words"; ObjectID = "1OH-MD-Esp"; */
+"1OH-MD-Esp.text" = "验证钱包助记词";
+
+/* Class = "UILabel"; text = "ETH"; ObjectID = "1pK-o3-IVd"; */
+"1pK-o3-IVd.text" = "ETH";
+
+/* Class = "UILabel"; text = "Re-Password"; ObjectID = "2CZ-5L-w7a"; */
+"2CZ-5L-w7a.text" = "确认密码";
+
+/* Class = "UILabel"; text = "Wallet Name"; ObjectID = "304-h3-wgr"; */
+"304-h3-wgr.text" = "钱包名称";
+
+/* Class = "UILabel"; text = "0.00 ETH"; ObjectID = "330-K6-fzh"; */
+"330-K6-fzh.text" = "0.00 ETH";
+
+/* Class = "UILabel"; text = "TX Hash:"; ObjectID = "3Cg-sK-Whu"; */
+"3Cg-sK-Whu.text" = "TX Hash:";
+
+/* Class = "UILabel"; text = "0.0000个"; ObjectID = "3Df-f7-NGN"; */
+"3Df-f7-NGN.text" = "0.0000个";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "3kd-Fz-l8E"; */
+"3kd-Fz-l8E.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Go Backup Now"; ObjectID = "46b-Pi-z1d"; */
+"46b-Pi-z1d.normalTitle" = "备份钱包";
+
+/* Class = "UILabel"; text = "0.00000"; ObjectID = "5Ej-cf-do3"; */
+"5Ej-cf-do3.text" = "0.00000";
+
+/* Class = "UILabel"; text = "Store to Password Vault"; ObjectID = "7Gg-qb-57Q"; */
+"7Gg-qb-57Q.text" = "存储到密码保险箱";
+
+/* Class = "UIButton"; normalTitle = "Import"; ObjectID = "7Md-ua-pz3"; */
+"7Md-ua-pz3.normalTitle" = "导入钱包";
+
+/* Class = "UIViewController"; title = "Import Wallet"; ObjectID = "8FM-Bd-eri"; */
+"8FM-Bd-eri.title" = "导入钱包";
+
+/* Class = "UILabel"; text = "0月0日 00:00"; ObjectID = "8vM-ES-ZuU"; */
+"8vM-ES-ZuU.text" = "0月0日 00:00";
+
+/* Class = "UILabel"; text = "DEF"; ObjectID = "9Gm-SY-xBI"; */
+"9Gm-SY-xBI.text" = "DEF";
+
+/* Class = "UILabel"; text = "• When Mnemonic once lost, it cannot be recovered\n• Anyone get it can assess or spend your assets"; ObjectID = "9RG-pk-BXP"; */
+"9RG-pk-BXP.text" = "• 助记词一旦遗失无法复原\n• 任何人取得您的助记词都可以访问或使用您的资产";
+
+/* Class = "UILabel"; text = "Password（6～16 charset）"; ObjectID = "Ad7-fa-7Q9"; */
+"Ad7-fa-7Q9.text" = "密码（6～16 字符，必须包含大小写字母和数字）";
+
+/* Class = "UILabel"; text = "To"; ObjectID = "BQ4-3O-ZGf"; */
+"BQ4-3O-ZGf.text" = "地址";
+
+/* Class = "UIButton"; normalTitle = "Copy Keystore"; ObjectID = "Bmt-Qj-16W"; */
+"Bmt-Qj-16W.normalTitle" = "复制 Keystore";
+
+/* Class = "UILabel"; text = "Wallet Name"; ObjectID = "CKW-LI-g8g"; */
+"CKW-LI-g8g.text" = "钱包名称";
+
+/* Class = "UILabel"; text = "0x00000000000000000000000000000000"; ObjectID = "CSo-8I-b9p"; */
+"CSo-8I-b9p.text" = "0x00000000000000000000000000000000";
+
+/* Class = "UIButton"; normalTitle = "Copy URL"; ObjectID = "DBw-N3-zhs"; */
+"DBw-N3-zhs.normalTitle" = "复制 URL";
+
+/* Class = "UILabel"; text = "≈0.0000"; ObjectID = "EPg-HI-HX3"; */
+"EPg-HI-HX3.text" = "≈0.0000";
+
+/* Class = "UITabBarItem"; title = "Assets"; ObjectID = "F4S-Lt-dRr"; */
+"F4S-Lt-dRr.title" = "资产";
+
+/* Class = "UILabel"; text = "About us"; ObjectID = "FOz-vZ-pWe"; */
+"FOz-vZ-pWe.text" = "关于我们";
+
+/* Class = "UILabel"; text = "Don't use Email/Cloud Storage/Notepad/IM tools to transfer Keystore.it easily gets hacked and result in loss."; ObjectID = "FYu-Ir-YGH"; */
+"FYu-Ir-YGH.text" = "请勿通过网络工具传输Keystore文件，一旦被黑客获取将造成不可挽回的资产损失。建议离线设备通过二维码方式传输。";
+
+/* Class = "UITextField"; placeholder = "Please enter password"; ObjectID = "FxW-sF-EQI"; */
+"FxW-sF-EQI.placeholder" = "请输入密码";
+
+/* Class = "UILabel"; text = "0x0000000000000000000000000000000"; ObjectID = "GfQ-rV-QfE"; */
+"GfQ-rV-QfE.text" = "0x0000000000000000000000000000000";
+
+/* Class = "UILabel"; text = "Manage Wallets"; ObjectID = "Hja-cC-IlB"; */
+"Hja-cC-IlB.text" = "管理钱包";
+
+/* Class = "UILabel"; text = "0x000000000000000000000000000000000"; ObjectID = "Hpb-OH-a0x"; */
+"Hpb-OH-a0x.text" = "0x000000000000000000000000000000000";
+
+/* Class = "UIButton"; normalTitle = "Receive"; ObjectID = "I4N-2a-WGz"; */
+"I4N-2a-WGz.normalTitle" = "收款";
+
+/* Class = "UILabel"; text = "Delete Wallet"; ObjectID = "ImF-WT-v0Z"; */
+"ImF-WT-v0Z.text" = "删除钱包";
+
+/* Class = "UIButton"; normalTitle = "Confirm"; ObjectID = "JfA-gl-sxk"; */
+"JfA-gl-sxk.normalTitle" = "确认";
+
+/* Class = "UILabel"; text = "From:"; ObjectID = "KPL-2F-isC"; */
+"KPL-2F-isC.text" = "发款方:";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "KQC-6J-Aak"; */
+"KQC-6J-Aak.normalTitle" = "下一步";
+
+/* Class = "UILabel"; text = "Wallet Name"; ObjectID = "KcN-i0-Vea"; */
+"KcN-i0-Vea.text" = "钱包名称";
+
+/* Class = "UILabel"; text = "Coin Name"; ObjectID = "Lrv-Bn-TBP"; */
+"Lrv-Bn-TBP.text" = "Coin Name";
+
+/* Class = "UILabel"; text = "Keystore"; ObjectID = "Mzf-NR-MFV"; */
+"Mzf-NR-MFV.text" = "Keystore";
+
+/* Class = "UILabel"; text = "Mnemonic"; ObjectID = "NPe-lk-oyn"; */
+"NPe-lk-oyn.text" = "助记词";
+
+/* Class = "UILabel"; text = "0.0000"; ObjectID = "NT3-cY-qPP"; */
+"NT3-cY-qPP.text" = "0.0000";
+
+/* Class = "UILabel"; text = "Please backup the mnemonic words"; ObjectID = "Nnj-ah-y6v"; */
+"Nnj-ah-y6v.text" = "抄写助记词";
+
+/* Class = "UILabel"; text = "None"; ObjectID = "Of2-9D-jtR"; */
+"Of2-9D-jtR.text" = "None";
+
+/* Class = "UILabel"; text = "0x0000000000000000000000000000000000000000"; ObjectID = "PJq-sX-JDz"; */
+"PJq-sX-JDz.text" = "0x0000000000000000000000000000000000000000";
+
+/* Class = "UILabel"; text = "Scan the QR Code"; ObjectID = "Pmp-nw-RTO"; */
+"Pmp-nw-RTO.text" = "扫描二维码";
+
+/* Class = "UILabel"; text = "Add Assets"; ObjectID = "Q9S-lH-lbq"; */
+"Q9S-lH-lbq.text" = "添加资产";
+
+/* Class = "UILabel"; text = "Success"; ObjectID = "Qs1-up-suy"; */
+"Qs1-up-suy.text" = "成功";
+
+/* Class = "UILabel"; text = "Please backup your wallet now!"; ObjectID = "QuE-cd-i96"; */
+"QuE-cd-i96.text" = "抄写助记词";
+
+/* Class = "UILabel"; text = "Dont't Transfer via internet Tools"; ObjectID = "Qz5-C7-rpl"; */
+"Qz5-C7-rpl.text" = "请勿使用网络传输";
+
+/* Class = "UILabel"; text = "The safest digital currency wallet"; ObjectID = "R6q-H4-uXM"; */
+"R6q-H4-uXM.text" = "最安全的数字货币钱包";
+
+/* Class = "UILabel"; text = "Time:"; ObjectID = "SVN-qr-5Hk"; */
+"SVN-qr-5Hk.text" = "时间:";
+
+/* Class = "UILabel"; text = "Please choose mnemonic words in order and make sure your mnemonic was corrent written"; ObjectID = "Sbd-Vw-TL4"; */
+"Sbd-Vw-TL4.text" = "请按正确顺序依次点击助记词,以确认您的助记词备份无误。";
+
+/* Class = "UILabel"; text = "DEF"; ObjectID = "T0A-tA-nqB"; */
+"T0A-tA-nqB.text" = "DEF";
+
+/* Class = "UILabel"; text = "Slow"; ObjectID = "Uls-xM-URD"; */
+"Uls-xM-URD.text" = "慢";
+
+/* Class = "UILabel"; text = "Total Assets≈"; ObjectID = "V1j-Zr-oHk"; */
+"V1j-Zr-oHk.text" = "总资产≈";
+
+/* Class = "UILabel"; text = "≈¥0.0000"; ObjectID = "XdY-ZZ-BDa"; */
+"XdY-ZZ-BDa.text" = "≈¥0.0000";
+
+/* Class = "UILabel"; text = "Send"; ObjectID = "YCh-1x-HfQ"; */
+"YCh-1x-HfQ.text" = "转账";
+
+/* Class = "UIButton"; normalTitle = "Create"; ObjectID = "YSk-NX-qNX"; */
+"YSk-NX-qNX.normalTitle" = "创建钱包";
+
+/* Class = "UILabel"; text = "Mining Fee"; ObjectID = "Ypr-Nm-HXu"; */
+"Ypr-Nm-HXu.text" = "矿工费用";
+
+/* Class = "UIButton"; normalTitle = "Create Wallet"; ObjectID = "ZMj-sS-rTw"; */
+"ZMj-sS-rTw.normalTitle" = "创建钱包";
+
+/* Class = "UILabel"; text = "0x0000000000000000000000000000000000000000"; ObjectID = "a1x-k1-MTg"; */
+"a1x-k1-MTg.text" = "0x0000000000000000000000000000000000000000";
+
+/* Class = "UIViewController"; title = "创建钱包"; ObjectID = "aPM-FO-dva"; */
+"aPM-FO-dva.title" = "创建钱包";
+
+/* Class = "UILabel"; text = "To:"; ObjectID = "b9K-bF-nwq"; */
+"b9K-bF-nwq.text" = "To:";
+
+/* Class = "UILabel"; text = "0x000000000000000000000000000000"; ObjectID = "bNH-wd-bhF"; */
+"bNH-wd-bhF.text" = "0x000000000000000000000000000000";
+
+/* Class = "UILabel"; text = "Wallet Name"; ObjectID = "bja-Mv-aWA"; */
+"bja-Mv-aWA.text" = "钱包名称";
+
+/* Class = "UILabel"; text = "Memo"; ObjectID = "cmP-40-OdQ"; */
+"cmP-40-OdQ.text" = "备注";
+
+/* Class = "UIViewController"; title = "Backup"; ObjectID = "d4K-bt-qxO"; */
+"d4K-bt-qxO.title" = "备份";
+
+/* Class = "UIButton"; normalTitle = "Send"; ObjectID = "dG5-Ew-RfU"; */
+"dG5-Ew-RfU.normalTitle" = "转账";
+
+/* Class = "UILabel"; text = "Export Private Key"; ObjectID = "dPu-XL-TP9"; */
+"dPu-XL-TP9.text" = "导出私钥";
+
+/* Class = "UIButton"; normalTitle = "+Add Assets"; ObjectID = "dVm-Th-fk1"; */
+"dVm-Th-fk1.normalTitle" = "+添加资产";
+
+/* Class = "UILabel"; text = "DEF Wallet"; ObjectID = "dqR-kj-WAo"; */
+"dqR-kj-WAo.text" = "DEF Wallet";
+
+/* Class = "UILabel"; text = "Those 12 mnemonic words are for recovering your wallet,write down correctly on paper and keep in a safe place"; ObjectID = "dtB-wI-tgm"; */
+"dtB-wI-tgm.text" = "请将助记词准确抄到纸上，并存放在只有你知道的安全的地址。您会在导入钱包或重置钱包密码时用到它们。";
+
+/* Class = "UIButton"; normalTitle = "Copy Wallet Address"; ObjectID = "e2k-uf-1V3"; */
+"e2k-uf-1V3.normalTitle" = "复制";
+
+/* Class = "UILabel"; text = "Transaction Result"; ObjectID = "eKk-YM-zr5"; */
+"eKk-YM-zr5.text" = "交易结果";
+
+/* Class = "UIButton"; normalTitle = "Import Wallet"; ObjectID = "etj-fv-iux"; */
+"etj-fv-iux.normalTitle" = "导入钱包";
+
+/* Class = "UILabel"; text = "Store Offline"; ObjectID = "ex7-V6-b2D"; */
+"ex7-V6-b2D.text" = "离线存储";
+
+/* Class = "UILabel"; text = "Gas Fee:"; ObjectID = "h2q-dX-ySE"; */
+"h2q-dX-ySE.text" = "Gas费用:";
+
+/* Class = "UITextField"; placeholder = "Please enter to address"; ObjectID = "i3t-og-BEf"; */
+"i3t-og-BEf.placeholder" = "请输入转账地址";
+
+/* Class = "UINavigationItem"; title = "Profile"; ObjectID = "iGP-sJ-sCT"; */
+"iGP-sJ-sCT.title" = "我";
+
+/* Class = "UIViewController"; title = "Back up mnemonic words"; ObjectID = "l5E-5F-SgI"; */
+"l5E-5F-SgI.title" = "备份助记词";
+
+/* Class = "UILabel"; text = "We highly recommend you write the Mnemonic words on paper and keep it in a safe place"; ObjectID = "lgh-1b-bDt"; */
+"lgh-1b-bDt.text" = "如果您忘记密码,[助记词]可以帮助您找回钱包密码，请注意:";
+
+/* Class = "UILabel"; text = "ETH"; ObjectID = "lrV-6I-4yo"; */
+"lrV-6I-4yo.text" = "ETH";
+
+/* Class = "UILabel"; text = "Fast"; ObjectID = "mCo-I7-kn9"; */
+"mCo-I7-kn9.text" = "快";
+
+/* Class = "UILabel"; text = "0.00012 ether"; ObjectID = "mtM-HO-0Pw"; */
+"mtM-HO-0Pw.text" = "0.00012 ether";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "nB2-ji-IF2"; */
+"nB2-ji-IF2.normalTitle" = "下一步";
+
+/* Class = "UILabel"; text = "Amount"; ObjectID = "neh-xy-fWF"; */
+"neh-xy-fWF.text" = "数量";
+
+/* Class = "UITextField"; placeholder = "Please enter amount of coin"; ObjectID = "o97-tu-nYx"; */
+"o97-tu-nYx.placeholder" = "请输入转账数量";
+
+/* Class = "UILabel"; text = "Please store the Keystore to a safe offline place like a USB drive.Never put it on internet."; ObjectID = "oRh-51-Bco"; */
+"oRh-51-Bco.text" = "请勿通过网络工具传输Keystore文件，一旦被黑客获取将造成不可挽回的资产损失。建议离线设备通过扫描二维码方式传输。";
+
+/* Class = "UILabel"; text = "Memo:"; ObjectID = "pAD-Bn-4qJ"; */
+"pAD-Bn-4qJ.text" = "Memo:";
+
+/* Class = "UILabel"; text = "如需在线保存，则建议使用安全等级更高的1Password 等密码保管软件保存Keystore"; ObjectID = "pSb-uf-dAE"; */
+"pSb-uf-dAE.text" = "如需在线保存，则建议使用安全等级更高的1Password 等密码保管软件保存Keystore";
+
+/* Class = "UILabel"; text = "0x0000000000000000000000000000000000000000"; ObjectID = "qAX-d4-KWf"; */
+"qAX-d4-KWf.text" = "0x0000000000000000000000000000000000000000";
+
+/* Class = "UITextField"; placeholder = "Please enter password again"; ObjectID = "qKv-XI-seT"; */
+"qKv-XI-seT.placeholder" = "请在此输入密码";
+
+/* Class = "UILabel"; text = "Private Key"; ObjectID = "rFC-9Y-zmr"; */
+"rFC-9Y-zmr.text" = "私钥";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "rlk-np-fRv"; */
+"rlk-np-fRv.text" = "0";
+
+/* Class = "UILabel"; text = "Total Assets(¥)"; ObjectID = "sQh-Df-xE7"; */
+"sQh-Df-xE7.text" = "总资产(¥)";
+
+/* Class = "UITextField"; placeholder = "Please enter wallet name"; ObjectID = "tY5-81-EMb"; */
+"tY5-81-EMb.placeholder" = "请输入钱包名称";
+
+/* Class = "UILabel"; text = "Scan the QR Code"; ObjectID = "uBb-V3-BLK"; */
+"uBb-V3-BLK.text" = "扫面二维码";
+
+/* Class = "UIButton"; normalTitle = "Create"; ObjectID = "uhh-Za-52I"; */
+"uhh-Za-52I.normalTitle" = "创建钱包";
+
+/* Class = "UILabel"; text = "Support"; ObjectID = "v4m-D0-1cU"; */
+"v4m-D0-1cU.text" = "帮助";
+
+/* Class = "UILabel"; text = "¥0.0"; ObjectID = "v59-8Y-UKK"; */
+"v59-8Y-UKK.text" = "¥0.0";
+
+/* Class = "UITextField"; placeholder = "Please enter password hint"; ObjectID = "vp6-ro-ncj"; */
+"vp6-ro-ncj.placeholder" = "请输入密码提示";
+
+/* Class = "UITabBarItem"; title = "Profile"; ObjectID = "wql-oc-CZA"; */
+"wql-oc-CZA.title" = "我";
+
+/* Class = "UILabel"; text = "Password Hint（optional）"; ObjectID = "xrw-YO-gzk"; */
+"xrw-YO-gzk.text" = "密码提示(可选）";
+
+/* Class = "UILabel"; text = "Export Keystore"; ObjectID = "yet-26-n9w"; */
+"yet-26-n9w.text" = "导出 Keystore";
+
+/* Class = "UILabel"; text = "receiving code"; ObjectID = "z42-Yo-kP4"; */
+"z42-Yo-kP4.text" = "收款码";
+
+/* Class = "UILabel"; text = "2018-03-27 10:00:00"; ObjectID = "zl6-Oj-uhP"; */
+"zl6-Oj-uhP.text" = "2018-03-27 10:00:00";
+
+"w7V-f1-nfc.text" = "修改密码";
+
+"HgI-gS-AlQ.text" = "修改密码";
+
+"L50-of-Yet.text" = "旧密码";
+
+"X6E-jM-T11.placeholder" = "请输入密码";
+
+"3kt-Ki-mHF.text" = "新密码";
+
+"gPq-Lb-NaX.placeholder" = "请输入新密码";
+
+"Kar-kX-dsc.text" = "重复新密码";
+
+"f8o-wJ-0lc.placeholder" = "请再次输入密码";
+
+"YVS-Oj-Qja.normalTitle" = "确认修改";
+

@@ -1,0 +1,16 @@
+[{
+ "coinType": "eth",
+ "iconUrl": "img_eth",
+ "amount": 1.414,
+ "price": 4008
+ }, {
+ "coinType": "eos",
+ "iconUrl": "img_eos",
+ "amount": 100,
+ "price": 94.55
+ }, {
+ "coinType": "neo",
+ "iconUrl": "img_neo",
+ "amount": 11,
+ "price": 365
+ }]

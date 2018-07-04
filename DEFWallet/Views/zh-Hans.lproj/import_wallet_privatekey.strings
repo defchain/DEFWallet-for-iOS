@@ -1,0 +1,18 @@
+
+/* Class = "UILabel"; text = "Password"; ObjectID = "5ho-gM-gmb"; */
+"5ho-gM-gmb.text" = "密码";
+
+/* Class = "UILabel"; text = "Private Key"; ObjectID = "dkv-Dr-Tie"; */
+"dkv-Dr-Tie.text" = "私钥";
+
+/* Class = "UIButton"; normalTitle = "Start Importing"; ObjectID = "h4t-X4-AJ9"; */
+"h4t-X4-AJ9.normalTitle" = "开始导入";
+
+/* Class = "UITextField"; placeholder = "Enter repeat password"; ObjectID = "nwa-BI-NTs"; */
+"nwa-BI-NTs.placeholder" = "再次输入密码";
+
+/* Class = "UITextField"; placeholder = "Enter a new password"; ObjectID = "pdm-kX-ALQ"; */
+"pdm-kX-ALQ.placeholder" = "输入一个新的密码";
+
+/* Class = "UILabel"; text = "Repeat Password"; ObjectID = "uNH-e0-JdI"; */
+"uNH-e0-JdI.text" = "重复密码";

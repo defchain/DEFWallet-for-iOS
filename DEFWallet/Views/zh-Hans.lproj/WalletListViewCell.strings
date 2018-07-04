@@ -1,0 +1,12 @@
+
+/* Class = "UILabel"; text = "Wallet Name"; ObjectID = "1la-M0-b1F"; */
+"1la-M0-b1F.text" = "钱包名称";
+
+/* Class = "UILabel"; text = "¥0.00"; ObjectID = "8CR-Zl-o05"; */
+"8CR-Zl-o05.text" = "¥0.00";
+
+/* Class = "UILabel"; text = "TotalAssets≈"; ObjectID = "Hkj-UL-pRx"; */
+"Hkj-UL-pRx.text" = "总资产≈";
+
+/* Class = "UILabel"; text = "0x0000000000000000000000000000000"; ObjectID = "g2A-UN-2KG"; */
+"g2A-UN-2KG.text" = "0x0000000000000000000000000000000";

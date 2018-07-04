@@ -1,0 +1,83 @@
+
+
+"create_wallet" = "Create Wallet";
+
+"creating_wallet" = "Creating..";
+
+"create_wallet_failed" = "Create wallet failed..";
+
+"create_wallet_success" = "Create wallet successed!";
+
+"backup_wallet_title" = "Backup";
+
+"authentication" = "Authentication";
+
+"enter_password_tips" = "Please enter password";
+
+"enter_password_placeholder" = "Password";
+
+"cancel" = "Cancel";
+
+"ok" = "OK";
+
+"validating_password" = "Validating..";
+
+"validate_password_success" = "Success";
+
+"validate_password_failed" = "Password is incorrect!";
+
+"backup_mnemonic_title" = "Back up mnemonic words";
+
+"backup_mnemonic_notice_title" = "Notice";
+
+"backup_mnemonic_notice_message" = "Dont's screenshot!Anyone with your mnemonic words can assess or spend your assets!Please write down on paper and keep it safe.";
+
+"backup_mnemonic_notice_ok" = "Understood";
+
+"validate_mnemonic_title" = "Backup";
+
+"remove_mnemonic_message" = "confirmed!Do you want to remove the mnemonic from this device?";
+
+"removing_mnemonic" = "removing..";
+
+"removed_mnemonic_title" = "Notice";
+
+"removed_mnemonic_message" = "Please make sure you backup your mnemonic finished!";
+
+"removed_mnemonic_finished" = "Remove wallet successful";
+
+"import_wallet_title" = "Import wallet";
+
+"enter_mnemonic_tips" = "Please enter mnemonic words with space";
+
+"enter_keystore_tips" = "Please paste the Ethereum Wallet Keystore file directly here";
+
+"enter_privatekey_tips" = "please enter the Private Key here";
+
+"manage_wallet_title" = "Manage Wallet";
+
+"import_wallet_title" = "Import Wallet";
+
+"importing_wallet" = "Importing..";
+
+"new_wallet" = "NewWallet";
+
+"import_wallet_success" = "Import wallet successful!";
+
+"import_wallet_failed" = "Import wallet failed!";
+
+"copy_sucess" = "Copy finished!";
+
+"transfer" = "Transaction";
+
+"sending_transaction" = "Sending transaction..";
+
+"send_transaction_success" = "Send transaction successful!";
+
+"send_transaction_failed" = "send_transaction_failed";
+
+"export_keystore_title" = "Export Keystore";
+
+"edit_password_success" = "Edit password success!";
+
+"edit_password_failed" = "Edit password failed,please make sure your password is correct!";

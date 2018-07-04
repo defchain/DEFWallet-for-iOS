@@ -1,0 +1,12 @@
+
+/* Class = "UIButton"; normalTitle = "Copy"; ObjectID = "2Nu-u4-C54"; */
+"2Nu-u4-C54.normalTitle" = "复制";
+
+/* Class = "UILabel"; text = "0000000000000000000000000000000000000000000000"; ObjectID = "WFL-bT-YQY"; */
+"WFL-bT-YQY.text" = "0000000000000000000000000000000000000000000000";
+
+/* Class = "UILabel"; text = "Export Private Key"; ObjectID = "eP8-iX-FEn"; */
+"eP8-iX-FEn.text" = "导出私钥";
+
+/* Class = "UILabel"; text = "Warning:Export plain private key is very dangerous.We recommend you backup with mnemonic or keystore"; ObjectID = "ye2-nO-zuh"; */
+"ye2-nO-zuh.text" = "安全警告:私钥未经加密，导出存在风险，建议使用助记词和Keystore进行备份。";

@@ -1,0 +1,24 @@
+
+/* Class = "UIButton"; normalTitle = "Start Importing"; ObjectID = "MH1-vY-RoB"; */
+"MH1-vY-RoB.normalTitle" = "开始导入";
+
+/* Class = "UITextField"; text = "m/44'/60'/0'/0/0"; ObjectID = "PRD-PK-OOd"; */
+"PRD-PK-OOd.text" = "m/44'/60'/0'/0/0";
+
+/* Class = "UILabel"; text = "Password"; ObjectID = "Q63-QQ-IQY"; */
+"Q63-QQ-IQY.text" = "密码";
+
+/* Class = "UILabel"; text = "Path"; ObjectID = "SR5-DL-fyY"; */
+"SR5-DL-fyY.text" = "路径";
+
+/* Class = "UILabel"; text = "Mnemonic"; ObjectID = "aG1-nY-Rn3"; */
+"aG1-nY-Rn3.text" = "助记词";
+
+/* Class = "UILabel"; text = "Re-Password"; ObjectID = "kEN-HD-PSQ"; */
+"kEN-HD-PSQ.text" = "重复密码";
+
+/* Class = "UITextField"; placeholder = "Please enter password"; ObjectID = "lsy-gt-rRz"; */
+"lsy-gt-rRz.placeholder" = "请输入密码";
+
+/* Class = "UITextField"; placeholder = "Please enter password again"; ObjectID = "qkz-EX-xtW"; */
+"qkz-EX-xtW.placeholder" = "请再次输入密码";

@@ -1,0 +1,83 @@
+
+
+"create_wallet" = "创建钱包";
+
+"creating_wallet" = "正在创建钱包..";
+
+"create_wallet_failed" = "创建钱包失败..";
+
+"create_wallet_success" = "创建钱包成功!";
+
+"backup_wallet_title" = "备份";
+
+"authentication" = "安全验证";
+
+"enter_password_tips" = "请输入您的密码后继续";
+
+"enter_password_placeholder" = "请输入钱包密码";
+
+"cancel" = "取消";
+
+"ok" = "确定";
+
+"validating_password" = "正在验证密码..";
+
+"validate_password_success" = "验证密码成功";
+
+"validate_password_failed" = "密码不正确，请检查是否输入正确";
+
+"backup_mnemonic_title" = "备份";
+
+"backup_mnemonic_notice_title" = "注意";
+
+"backup_mnemonic_notice_message" = "不要拍照或截图，助记词泄露将导致您的资产账户不再安全。";
+
+"backup_mnemonic_notice_ok" = "知道了";
+
+"validate_mnemonic_title" = "备份";
+
+"remove_mnemonic_message" = "确认是否从当前设备上删除助记词？";
+
+"removing_mnemonic" = "正在删除..";
+
+"removed_mnemonic_title" = "备份成功";
+
+"removed_mnemonic_message" = "钱包备份完成，本应用不会记录备份信息，请您谨慎保管。";
+
+"removed_mnemonic_finished" = "删除钱包成功!";
+
+"import_wallet_title" = "导入钱包";
+
+"enter_mnemonic_tips" = "请输入助记词，单词间用空格";
+
+"enter_keystore_tips" = "请直接粘贴以太坊钱包的Keystore文件至此处";
+
+"enter_privatekey_tips" = "请输入私钥";
+
+"manage_wallet_title" = "钱包管理";
+
+"import_wallet_title" = "导入钱包";
+
+"importing_wallet" = "正在导入..";
+
+"new_wallet" = "新钱包";
+
+"import_wallet_success" = "导入钱包成功!";
+
+"import_wallet_failed" = "导入钱包失败.";
+
+"copy_sucess" = "复制成功!";
+
+"transfer" = "转账";
+
+"sending_transaction" = "正在发送交易..";
+
+"send_transaction_success" = "发送交易成功!";
+
+"send_transaction_failed" = "发送交易失败";
+
+"export_keystore_title" = "导出keystore";
+
+"edit_password_success" = "修改密码成功!";
+
+"edit_password_failed" = "修改密码失败,请检查您的密码是否正确";
